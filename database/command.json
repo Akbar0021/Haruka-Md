@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "nama": "#menu",
+    "count": 4
+  },
+  {
+    "nama": "#sticker",
+    "count": 1
+  },
+  {
+    "nama": "#infobot",
+    "count": 1
+  },
+  {
+    "nama": "#listbahasa",
+    "count": 1
+  },
+  {
+    "nama": "#qc",
+    "count": 1
+  },
+  {
+    "nama": "#toimage",
+    "count": 2
+  }
+]
